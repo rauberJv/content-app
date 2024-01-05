@@ -7,16 +7,61 @@ tag: ['cardiology', 'heart health', 'medical terms']
 parent: 'Medicine'
 parentLink: '/terminologies/medicine'
 ---
-- **Arrhythmia**: An irregular heartbeat.
-- **Atherosclerosis**: Hardening and narrowing of the arteries.
-- **Cardiomyopathy**: A disease of the heart muscle.
-- **Coronary Artery Disease (CAD)**: A condition that affects the arteries supplying blood to the heart.
-- **Echocardiogram**: An ultrasound of the heart.
-- **Electrocardiogram (ECG)**: A test that measures the electrical activity of the heartbeat.
-- **Heart Failure**: A condition in which the heart is unable to pump blood effectively.
-- **Hypertension**: High blood pressure.
-- **Myocardial Infarction (Heart Attack)**: A blockage of blood flow to the heart muscle.
-- **Percutaneous Coronary Intervention (PCI)**: A non-surgical procedure used to treat narrowing of the coronary arteries.
-- **Stent**: A small tube inserted into a blocked passageway to keep it open.
-- **Tachycardia**: Abnormally fast heart rate.
-- **Valvular Heart Disease**: A disease that affects one or more of the four valves of the heart.
+::term
+---
+terms: [
+    {
+        key: 'Arrhythmia', 
+        value: 'An irregular heartbeat.' 
+    },
+    {
+        key: 'Atherosclerosis', 
+        value: 'Hardening and narrowing of the arteries.' 
+    },
+    {
+        key: 'Cardiomyopathy', 
+        value: 'A disease of the heart muscle.' 
+    },
+    {
+        key: 'Coronary Artery Disease (CAD)', 
+        value: 'A condition that affects the arteries supplying blood to the heart.' 
+    },
+    {
+        key: 'Echocardiogram', 
+        value: 'An ultrasound of the heart.' 
+    },
+    {
+        key: 'Electrocardiogram (ECG)', 
+        value: 'A test that measures the electrical activity of the heartbeat.' 
+    },
+    {
+        key: 'Heart Failure', 
+        value: 'A condition in which the heart is unable to pump blood effectively.' 
+    },
+    {
+        key: 'Hypertension', 
+        value: 'High blood pressure.' 
+    },
+    {
+        key: 'Myocardial Infarction (Heart Attack)', 
+        value: 'A blockage of blood flow to the heart muscle.' 
+    },
+    {
+        key: 'Percutaneous Coronary Intervention (PCI)', 
+        value: 'A non-surgical procedure used to treat narrowing of the coronary arteries.' 
+    },
+    {
+        key: 'Stent', 
+        value: 'A small tube inserted into a blocked passageway to keep it open.' 
+    },
+    {
+        key: 'Tachycardia', 
+        value: 'Abnormally fast heart rate.' 
+    },
+    {
+        key: 'Valvular Heart Disease', 
+        value: 'A disease that affects one or more of the four valves of the heart.' 
+    }
+]
+---
+::
