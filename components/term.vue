@@ -1,5 +1,5 @@
 <template>
-    <p>
-        <b><slot name="key"></slot></b><slot name="value"></slot>
+    <p class="bg-pink-500 text-black text-4xl">
+        <slot></slot>
     </p>
 </template>

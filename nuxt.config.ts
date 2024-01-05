@@ -1,7 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxt/content'],
+  modules: ['@nuxt/content', 'nuxt-simple-robots'],
+  nitro: {
+    prerender: {
+      routes: ['/sitemap.xml']
+    }
+  },
   postcss: {
     plugins: {
       tailwindcss: {},
@@ -39,5 +44,5 @@ export default defineNuxtConfig({
       strict: false
     }
   },
-  sourcemap: false
+  sourcemap: false,
 })
